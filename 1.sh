@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#modifica codice
 for nome in $(ls /byte20)
 do
 	mkdir $nome
